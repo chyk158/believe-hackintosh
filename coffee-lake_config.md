@@ -9,7 +9,7 @@
 * [OCAT](https://github.com/ic005k/OCAuxiliaryTools)
   * 更加好用的plist编辑器，方便更新kext和opencore
 * [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
-  * 用于生成我们的SMBIOS 数据
+  * 用于生成我们的SMBIOS数据，OCAT可以替换此
 * [Sample/config.plist](https://github.com/acidanthera/OpenCorePkg/releases)
   * 有关如何获取: [config.plist设置](../config.plist/README.md)，请参见上一节
 
